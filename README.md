@@ -97,47 +97,6 @@ Linux | Bash | Git
 
 <hr/>
 
-<h2>🧑‍💼 Professional Experience</h2>
-
-<h3>🎓 Mathematics Teacher & Freelance Developer</h3>
-<p><b>Ministry of Education — 2022 → Present</b></p>
-
-<ul>
-  <li>Designed & developed a complete school automation system</li>
-  <li>Built apps using React, React Native & Java</li>
-  <li>Automated Excel imports (classes & students)</li>
-  <li>MCQ systems with analytics & auto-correction</li>
-  <li>Selenium automation (Massar platform)</li>
-  <li>Light security audits (OWASP checks)</li>
-</ul>
-
-<h3>🐍 Python Developer – Automation (NOC)</h3>
-<p><b>INWI / Devoteam — 2020 → 2022</b></p>
-
-<ul>
-  <li>Python, Django & Selenium automation tools</li>
-  <li>Automatic ticketing & alert systems</li>
-  <li>SMS alerting for NOC teams</li>
-  <li>Internal dashboards & monitoring</li>
-</ul>
-
-<h3>🏗️ Full-Stack Developer – Spring Boot / Angular</h3>
-<ul>
-  <li>Secure REST APIs (JWT)</li>
-  <li>HR Management platform</li>
-  <li>Time tracking & document automation</li>
-</ul>
-
-<h3>🏭 Web Developer – Laravel / Vue.js</h3>
-<ul>
-  <li>Warehouse Management System (WMS)</li>
-  <li>Cross-docking workflows</li>
-  <li>Barcode & stock automation</li>
-  <li>Operational dashboards</li>
-</ul>
-
-<hr/>
-
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
