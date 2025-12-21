@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/>
 </p>
 
 <hr/>
