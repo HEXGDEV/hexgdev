@@ -95,13 +95,13 @@ Linux | Bash | Git
   <li>Monitoring & Dashboards</li>
 </ul>
 
-<hr/>
+<!-- <hr/>
 
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexgdev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 <hr/>
 
