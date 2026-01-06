@@ -76,7 +76,7 @@ Linux | Bash | Git
 
 <h3>📱 Mobile</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" /> React Native
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
 </p>
 
 <h3>🗄️ Databases</h3>
