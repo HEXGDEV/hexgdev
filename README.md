@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I'm Hicham Ezzamzami</h1>
-<h3 align="center">Penetration Tester 🔐 | Software Engineer 💻 | Freelancer 🚀</h3>
+<h3 align="center">Penetration Tester 🔐 | Software Engineer 💻 </h3>
 
 <p align="center">
   <a href="https://ezzamzami.com">
