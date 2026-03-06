@@ -105,13 +105,13 @@ Linux | Bash | Git
 
 <hr/>
 
-<h2>🎯 Current Goal</h2>
+<!-- <h2>🎯 Current Goal</h2>
 
 <p>
 OSCP → Advanced Web Pentesting → Red Teaming
 </p>
 
-<hr/>
+<hr/> -->
 
 <h2>🤝 Let's Connect</h2>
 
