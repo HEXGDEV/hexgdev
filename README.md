@@ -25,10 +25,10 @@
 <p><b>whoami</b></p>
 
 <ul>
-  <li>🔐 Penetration Tester focused on Web Security & OWASP Top 10</li>
+  <li>🔐 Penetration Tester</li>
   <li>💻 Software Engineer (Freelancer) – Backend, Frontend & Mobile</li>
   <li>🧪 Active on HackTheBox & TryHackMe</li>
-  <li>🧠 Strong mathematical & logical background</li>
+  <!-- <li>🧠 Strong mathematical & logical background</li> -->
   <li>🛡️ Secure-by-design mindset</li>
 </ul>
 
