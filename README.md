@@ -27,9 +27,9 @@
 <ul>
   <li>🔐 Penetration Tester</li>
   <li>💻 Software Engineer (Freelancer) – Backend, Frontend & Mobile</li>
-  <li>🧪 Active on HackTheBox & TryHackMe</li>
+  <!-- <li>🧪 Active on HackTheBox & TryHackMe</li> -->
   <!-- <li>🧠 Strong mathematical & logical background</li> -->
-  <li>🛡️ Secure-by-design mindset</li>
+  <!-- <li>🛡️ Secure-by-design mindset</li> -->
 </ul>
 
 <p>📍 Casablanca, Morocco 🇲🇦</p>
