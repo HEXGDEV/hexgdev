@@ -50,7 +50,7 @@
 </ul>
 
 <p><b>Tools:</b><br/>
-Burp Suite | Nmap | Gobuster | Nikto | Metasploit<br/>
+Burp Suite | Nmap | Gobuster | Nikto | Metasploit ...<br/>
 Linux | Bash | Git
 </p>
 
