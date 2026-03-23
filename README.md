@@ -35,8 +35,11 @@
 <p>📍 Casablanca, Morocco 🇲🇦</p>
 
 <hr/>
+<!--
 
 <h2>⚔️ Offensive Security Arsenal</h2>
+
+-->
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
