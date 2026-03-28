@@ -46,8 +46,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hexgdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hicham's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexgdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="41%" />
+  <a href="https://github.com/hexgdev">
+    <img src="https://github-readme-stats.vercel.app/api?username=hexgdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hicham's Stats" width="48%" />
+  </a>
+  <a href="https://github.com/hexgdev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexgdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="41%" />
+  </a>
 </p>
 
 ---
