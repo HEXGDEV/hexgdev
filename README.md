@@ -1,128 +1,99 @@
-
-<h1 align="center">👋 Hi, I'm Hicham Ezzamzami</h1>
-<h3 align="center">Penetration Tester 🔐 | Software Engineer 💻 </h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Hicham+Ezzamzami;Penetration+Tester+🔐;Software+Engineer+💻;Secure+by+Design+🛡️" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://ezzamzami.com">
-    <img src="https://img.shields.io/badge/Portfolio-ezzamzami.com-1A73E8?style=for-the-badge">
-  </a>
-  <a href="mailto:hicham@ezzamzami.com">
-    <img src="https://img.shields.io/badge/Email-hicham@ezzamzami.com-EA4335?style=for-the-badge">
-  </a>
-  <a href="https://github.com/hexgdev">
-    <img src="https://img.shields.io/badge/GitHub-hexgdev-181717?style=for-the-badge">
-  </a>
+  <a href="https://ezzamzami.com"><img src="https://img.shields.io/badge/Portfolio-1A73E8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:hicham@ezzamzami.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/hexgdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fullstack%20Security%20&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
-<hr/>
+---
 
-<h2>🧠 About Me</h2>
+## 🚀 Overview
 
-<p><b>whoami</b></p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Whoami</h3>
+      <p>A <b>Security-focused Developer</b> based in 📍 Casablanca, Morocco. I build robust applications and then break them to make them stronger.</p>
+      <ul>
+        <li>🛡️ <b>Focus:</b> Offensive Security & Web Pentesting</li>
+        <li>🛠️ <b>Mission:</b> Secure-by-design mindset</li>
+        <li>🧪 <b>Active:</b> HackTheBox & TryHackMe</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJpbmZ1YXJtMmt6eXN2ZHRueWN6eXJqMnd4bmV0bmR6ZnR6eWp6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-<ul>
-  <li>🔐 Penetration Tester</li>
-  <li>💻 Software Engineer (Freelancer) – Backend, Frontend & Mobile</li>
-  <!-- <li>🧪 Active on HackTheBox & TryHackMe</li> -->
-  <!-- <li>🧠 Strong mathematical & logical background</li> -->
-  <!-- <li>🛡️ Secure-by-design mindset</li> -->
-</ul>
+---
 
-<p>📍 Casablanca, Morocco 🇲🇦</p>
+## ⚔️ Offensive Security Arsenal
 
-<hr/>
-
-<h2>⚔️ Offensive Security Arsenal</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,kali,py,git&theme=dark" /><br/>
+  <i>Burp Suite | Nmap | Metasploit | OWASP Top 10 | PrivEsc</i>
+</div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hexgdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hicham's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexgdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="41%" />
 </p>
 
-<ul>
-  <li>🔍 Reconnaissance & Enumeration</li>
-  <li>🕷️ Web Pentesting (OWASP Top 10)</li>
-  <li>💣 Exploitation & Privilege Escalation</li>
-  <li>🧪 CTFs & Labs (HTB / THM)</li>
-</ul>
+---
 
-<p><b>Tools:</b><br/>
-Burp Suite | Nmap | Gobuster | Nikto | Metasploit ...<br/>
-Linux | Bash | Git
+## 💻 Software Engineering Stack
+
+<details open>
+<summary><b>🛠 Backend & Databases</b></summary>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring,java,python,django,mysql,postgres,sqlite&perline=10" />
 </p>
+</details>
 
-<hr/>
-
-<h2>💻 Software Engineering Stack</h2>
-
-<h3>🔙 Backend</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring,java,python,django&theme=dark" />
+<details open>
+<summary><b>🎨 Frontend & Mobile</b></summary>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,typescript,tailwind&perline=10" />
 </p>
+</details>
 
-<ul>
-  <li>REST APIs & Microservices</li>
-  <li>Secure Authentication (JWT)</li>
-  <li>Automation & Scripting</li>
-</ul>
-
-<h3>🎨 Frontend</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,typescript,tailwind&theme=dark" />
+<details>
+<summary><b>⚙️ DevOps & Automation</b></summary>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,bash,linux,selenium&perline=10" />
 </p>
+</details>
 
-<h3>📱 Mobile</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
-</p>
+---
 
-<h3>🗄️ Databases</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
-</p>
-
-<h3>⚙️ Automation / DevOps</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,bash&theme=dark" />
-</p>
-
-<ul>
-  <li>Selenium Automation</li>
-  <li>Electron.js Desktop Applications</li>
-  <li>Monitoring & Dashboards</li>
-</ul>
-
-<!-- <hr/>
-
-<h2>📊 GitHub Stats</h2>
+## 📈 Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexgdev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p> -->
-
-<hr/>
-
-<!-- <h2>🎯 Current Goal</h2>
-
-<p>
-OSCP → Advanced Web Pentesting → Red Teaming
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hexgdev&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
-<hr/> -->
+---
 
-<h2>🤝 Let's Connect</h2>
+## 🤝 Let's Connect
 
-<p>
-  <a href="https://ezzamzami.com">Portfolio</a> |
-  <a href="mailto:hicham@ezzamzami.com">Email</a> |
-  <a href="https://github.com/hexgdev">GitHub</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hexgdev&label=Profile+Views&color=1A73E8&style=flat-square" />
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=hexgdev&label=Profile+Views&color=blueviolet"/>
+<p align="center">
+  <i>"Secure the code before attackers test it."</i>
 </p>
 
-<p><i>"Secure the code before attackers test it."</i></p>
+<p align="center">
+  <a href="https://ezzamzami.com"><b>Portfolio</b></a> •
+  <a href="mailto:hicham@ezzamzami.com"><b>Email</b></a> •
+  <a href="https://github.com/hexgdev"><b>GitHub</b></a>
+</p>
