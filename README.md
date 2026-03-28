@@ -9,25 +9,25 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fullstack%20Security%20&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Offensive%20Security%20&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 ---
 
-## 🚀 Overview
+## 🛡️ Penetration Tester & Developer
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Whoami</h3>
-      <p>A <b>Security-focused Developer</b> based in 📍 Casablanca, Morocco. I build robust applications and then break them to make them stronger.</p>
+    <td width="55%" valign="top">
+      <h3>🧠 whoami</h3>
+      <p>A <b>Cybersecurity Enthusiast</b> and <b>Full-stack Developer</b> based in 📍 Casablanca. I specialize in finding vulnerabilities before they become a problem.</p>
       <ul>
-        <li>🛡️ <b>Focus:</b> Offensive Security & Web Pentesting</li>
-        <li>🛠️ <b>Mission:</b> Secure-by-design mindset</li>
-        <li>🧪 <b>Active:</b> HackTheBox & TryHackMe</li>
+        <li>🔍 <b>Offensive Security:</b> Web Pentesting (OWASP Top 10).</li>
+        <li>💻 <b>Software Engineering:</b> Building secure & scalable apps.</li>
+        <li>🧪 <b>Lab Addict:</b> Active on HackTheBox & TryHackMe.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="45%" valign="top">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJpbmZ1YXJtMmt6eXN2ZHRueWN6eXJqMnd4bmV0bmR6ZnR6eWp6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="100%"/>
     </td>
   </tr>
@@ -38,9 +38,12 @@
 ## ⚔️ Offensive Security Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,kali,py,git&theme=dark" /><br/>
-  <i>Burp Suite | Nmap | Metasploit | OWASP Top 10 | PrivEsc</i>
+  <img src="https://skillicons.dev/icons?i=linux,bash,kali,py,git&theme=dark" />
 </div>
+
+<p align="center">
+  <b>Tools:</b> Burp Suite | Nmap | Gobuster | Metasploit | Nikto | SQLmap
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hexgdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hicham's Stats" width="48%" />
@@ -74,7 +77,7 @@
 
 ---
 
-## 📈 Activity & Contributions
+## 📈 My Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hexgdev&theme=tokyonight&hide_border=true" width="100%" />
